@@ -8,12 +8,12 @@ First thing that I did was clean the data and create some new columns to create 
 
 I then anayzed the overal price per square foot between the seperate boroughs of NYC which is shown in the graph below. If  anyone knows anything about NYC then this graph should make sence. With Manhattan's average being the highest, the Bronx and Staten Island being the lowest and Boorklyn and Queens being right in the middle. 
 <p align="center">
-    <img width = "500" src="images/Figure_16.png">
+    <img width = "700" src="images/Figure_16.png">
 </p>
 
 After seeing the mean price per Borough I wanted to visualize all of the individual sales to see if therer was a visual pattern to follow or any main outliers what I could see. It turns that that There were some major outliers.
 <p align="center">
-    <img width = "500" src="images/Figure_1.png">
+    <img width = "700" src="images/Figure_1.png">
 </p>
 After I saw the extreme outliers in the overvaluation of some properties I wanted to do some investigating in the reasons behind the sales. The first two images that are shown below are the top two outliers that I saw. The first one is a lot that is going to be constructed into a large storage facility.The second image is the details behind the second outlier. The building is a new aparemtnet development with very high rent because of the location and quality of the aparemtments.   
 </p>
@@ -33,7 +33,7 @@ The last image is an example of the the properties that are sold at an extremely
 
 After analyzing the high outliers and low values I figured to get a bette snapshot of the data a should get rid of any outliers.I then made a boxplot of the data again grouped by the five Boroughs. When looking at the boxplot I noteiced a few things. If I wanted to invest in a property in Manhattan I would want to look at a prperty that comes in the 25% percentile because it is still in the centeral range of the Manhatan properties but has a lot of room for improvment because of the large variance. 
 <p align="center">
-    <img width = "500" src="images/Figure_2.png">
+    <img width = "700" src="images/Figure_2.png">
 </p>
 
 <center>
