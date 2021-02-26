@@ -37,7 +37,6 @@ After analyzing the high outliers and low values I figured to get a bette snapsh
 </p>
 
 <center>
-
 | Borough | STD |
 |-------|---|
 |Bronx|204.27|
